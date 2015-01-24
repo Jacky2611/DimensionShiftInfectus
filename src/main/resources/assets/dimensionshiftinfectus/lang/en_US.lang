@@ -1,0 +1,22 @@
+itemGroup.tabDimensionshiftInfectus=Infectus Tab
+
+tile.blockInfectedGrass.name=Infected Grass
+tile.blockInfectedDirt.name=Infected Dirt
+tile.blockItemWasher.name=Item Washer
+tile.blockGlassJarParasiteMaggot.name=Glass Jar with a Parasite inside
+tile.blockGlassJar.name=Glass Jar
+
+item.itemDeadParasiteMaggot.name=Dead Parasite Maggot
+item.itemBurnedParasiteMaggot.name=Burned Parasite Maggot
+item.itemParasiteMaggotsAsh.name=Parasite Maggot's Ash
+
+
+container.itemWasher=Item Washer
+
+entity.dimensionshiftinfectus.entityParasiteMaggot.name=a parasite
+
+achievement.infectusDimension=The Infectus
+achievement.infectusDimension.desc=Where, where am I?
+
+achievement.infectionParasiteMaggot=Parasite Maggot
+achievement.infectionParasiteMaggot.desc=I feel sick...
